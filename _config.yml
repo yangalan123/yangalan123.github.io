@@ -45,12 +45,12 @@ avatar: "/assets/img/personal_image.jpg"
 social-network-links:
   email: "yangalan1996@gmail.com"
   # facebook: deanattali
-  github: https://github.com/yangalan123
+  github: yangalan123
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/chenghao-yang-857b51178/
+  linkedin: chenghao-yang-857b51178/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,7 +64,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?user=B28fiOAAAAAJ&hl=zh-CN
+  google-scholar: citations?user=B28fiOAAAAAJ&hl=zh-CN
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
