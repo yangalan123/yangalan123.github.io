@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slides
+title: Blog (Slides)
 subtitle: The best way to learn is to teach.
 ---
 

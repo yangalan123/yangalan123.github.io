@@ -14,8 +14,9 @@ author: Chenghao Yang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Presentation: "xlog"
-  PhD Application: "phdapplication"
+  Publication: "publication"
+  Blog: "xlog"
+  PhD App Resources: "phdapplication"
   About Me: "aboutme"
   Find More:
     - Github: https://github.com/yangalan123
