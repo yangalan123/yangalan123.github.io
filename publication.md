@@ -21,6 +21,8 @@ subtitle: Great thanks for my all great collaborators!
     </ol>
 <h3 id="conference-papers">Conference Papers</h3>
 <ol>
+    <li><strong>Chenghao Yang</strong>, Allyson Ettinger., <strong>Can You Follow Me? Testing Situational Understanding in ChatGPT</strong>, EMNLP 2023</li>
+    <a href="https://arxiv.org/abs/2310.16135">[paper]</a><a href="https://github.com/yangalan123/SituationalTesting">[code]</a>
     <li><strong>Chenghao Yang</strong>, Fan Yin, He He, Kai-Wei Chang, Xiaofei Ma and Bing Xiang., <strong>Efficient Shapley Values Estimation by Amortization for Text Classification</strong>, ACL 2023</li>
     <!-- <a href="#">[Paper and Codes are preparing to release, thanks for your patience!]</a> -->
     <a href="https://arxiv.org/abs/2305.19998">[paper]</a> <a href="https://github.com/yangalan123/Amortized-Interpretability">[code]</a>
