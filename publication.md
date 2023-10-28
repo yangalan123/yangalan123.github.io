@@ -21,9 +21,17 @@ subtitle: Great thanks for my all great collaborators!
     </ol>
 <h3 id="conference-papers">Conference Papers</h3>
 <ol>
-    <li><strong>Chenghao Yang</strong>, Allyson Ettinger., <strong>Can You Follow Me? Testing Situational Understanding in ChatGPT</strong>, EMNLP 2023</li> <a href="https://arxiv.org/abs/2310.16135">[paper]</a><a href="https://github.com/yangalan123/SituationalTesting">[code]</a>
-    <li><strong>Chenghao Yang</strong>, Fan Yin, He He, Kai-Wei Chang, Xiaofei Ma and Bing Xiang., <strong>Efficient Shapley Values Estimation by Amortization for Text Classification</strong>, ACL 2023</li> <a href="https://arxiv.org/abs/2305.19998">[paper]</a><a href="https://github.com/yangalan123/Amortized-Interpretability">[code]</a><a href="https://www.youtube.com/watch?v=CsCRU8Hzpms">[video]</a>
-    <li>{Shiqi Wang*, Zheng Li*}, Haifeng Qian, <strong>Chenghao Yang</strong>, Zijian Wang, Mingyue Shang, Varun Kumar, Samson Tan, Baishakhi Ray, Parminder Bhatia, Ramesh Nallapati, Murali Krishna Ramanathan, Dan Roth and Bing Xiang., <strong>ReCode: Robustness Evaluation of Code Generation Models</strong>, ACL 2023 <a href="https://arxiv.org/abs/2212.10264">[paper]</a><a href="https://github.com/amazon-science/recode">[codebase]</a><a href="https://dl4c.github.io/assets/pdf/papers/13.pdf">[DL4C @ ICLR 2023 Version]</a></li>
+        <li><strong>Chenghao Yang</strong>, Allyson Ettinger., <strong>Can You Follow Me? Testing Situational Understanding in ChatGPT</strong>, EMNLP 2023
+            <a href="https://arxiv.org/abs/2310.16135">[paper]</a><a href="https://github.com/yangalan123/SituationalTesting">[code]</a>
+            </li>
+        <li><strong>Chenghao Yang</strong>, Fan Yin, He He, Kai-Wei Chang, Xiaofei Ma and Bing Xiang., <strong>Efficient Shapley Values Estimation by Amortization for Text Classification</strong>, ACL 2023 
+            <a href="https://arxiv.org/abs/2305.19998">[paper]</a><a href="https://github.com/yangalan123/Amortized-Interpretability">[code]</a><a href="https://www.youtube.com/watch?v=CsCRU8Hzpms">[video]</a>
+            </li>
+        <li>{Shiqi Wang*, Zheng Li*}, Haifeng Qian, <strong>Chenghao Yang</strong>, Zijian Wang, Mingyue Shang, Varun Kumar, Samson Tan, Baishakhi Ray, Parminder Bhatia, Ramesh Nallapati, Murali Krishna Ramanathan, Dan Roth and Bing Xiang., 
+            <strong>ReCode: Robustness Evaluation of Code Generation Models</strong>, ACL 2023 
+            <a href="https://arxiv.org/abs/2212.10264">[paper]</a><a href="https://github.com/amazon-science/recode">[codebase]</a>
+            <a href="https://dl4c.github.io/assets/pdf/papers/13.pdf">[DL4C @ ICLR 2023 Version]</a>
+        </li>
     <li><strong>Chenghao Yang</strong>, Xuezhe Ma., <strong>Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping</strong>, EMNLP 2022 <a
         href="https://arxiv.org/abs/2210.10325">[paper]</a><a href="https://github.com/yangalan123/FineTuningStability"> [codebase]</a></li>
     <li><strong>Chenghao Yang</strong>, Hongyuan Mei, Jason Eisner., <strong>Transformer Embeddings of Irregularly Spaced Events and Their Participants</strong>, ICLR 2022 <a
