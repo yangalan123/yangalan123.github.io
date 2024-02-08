@@ -21,6 +21,9 @@ subtitle: Great thanks for my all great collaborators!
     </ol>
 <h3 id="conference-papers">Conference Papers</h3>
 <ol>
+        <li>Chaoqi Wang, Yibo Jiang, <strong>Chenghao Yang</strong>, Han Liu, Yuxin Chen., <strong>Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints</strong>, ICLR 2024 Spotlight
+            <a href="https://arxiv.org/abs/2309.16240">[paper]</a>
+        </li>
         <li><strong>Chenghao Yang</strong>, Allyson Ettinger., <strong>Can You Follow Me? Testing Situational Understanding in ChatGPT</strong>, EMNLP 2023
             <a href="https://arxiv.org/abs/2310.16135">[paper]</a><a href="https://github.com/yangalan123/SituationalTesting">[code]</a>
             </li>

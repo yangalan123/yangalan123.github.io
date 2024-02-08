@@ -15,8 +15,8 @@ subtitle: Resources useful for (NLP) PhD Applications
 My mentored students/collaborators (@ some_place means this period happened at some_place, kudos to them all!):
 <ul>
 <li>Yanhong Li (UChicago Undergrad Mentee, @ UChicago) </li>
-<li><a href="https://www.linkedin.com/in/boyuan-zheng-602238183/">Boyuan Zheng</a> (JHU M.S., @ AWS)</li>
-<li><a href="https://www.linkedin.com/in/zheng-jack-li/">Zheng Li</a> (Cornell M.S. , @ AWS)</li>
-<li><a href="https://realliyifei.github.io/">Yifei Li</a> (UPenn Ph.D., @ AWS)</li>
-<li><a href="https://www.billyzhang.me/">Xuanming Zhang</a>(Columbia M.S. -> Columbia Ph.D., @ AWS)</li>
+<li><a href="https://www.linkedin.com/in/boyuan-zheng-602238183/">Boyuan Zheng</a> (JHU M.S. -> OSU Ph.D., @ AWS)</li>
+<li><a href="https://www.linkedin.com/in/zheng-jack-li/">Zheng Li</a> (Cornell M.S. -> TikTok, @ AWS)</li>
+<li><a href="https://realliyifei.github.io/">Yifei Li</a> (UPenn M.S. -> UPenn Ph.D., @ AWS)</li>
+<li><a href="https://www.billyzhang.me/">Xuanming Zhang</a> (Columbia M.S. -> Columbia Ph.D., @ AWS)</li>
 </ul>
