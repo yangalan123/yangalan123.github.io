@@ -21,6 +21,8 @@ subtitle: Great thanks for my all great collaborators!
     </ol>
 <h3 id="conference-papers">Conference Papers</h3>
 <ol>
+        <li>{Yanhong Li*, <strong>Chenghao Yang*</strong>}, Allyson Ettinger., <strong>When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models</strong>, NAACL 2024 Findings <a href="https://arxiv.org/abs/2404.09129">[paper]</a> <a href="https://github.com/yanhong-lbh/LLM-SelfReflection-Eval">[code]</a> </li>
+        <li>{<strong>Chenghao Yang*</strong>, Tuhin Chakrabarty*}, Karli R Hochstatter, Melissa N Slavin, Nabila El-Bassel, Smaranda Muresan., <strong>Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts</strong>, NAACL 2024 Findings <a href="https://arxiv.org/abs/2311.09066">[paper]</a> <a href="https://github.com/yangalan123/OpioidID">[code]</a></li>
         <li>Chaoqi Wang, Yibo Jiang, <strong>Chenghao Yang</strong>, Han Liu, Yuxin Chen., <strong>Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints</strong>, ICLR 2024 Spotlight
             <a href="https://arxiv.org/abs/2309.16240">[paper]</a>
         </li>
