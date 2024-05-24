@@ -5,6 +5,7 @@ subtitle: The best way to learn is to teach.
 ---
 
 <ul>
+<li> <a href="https://docs.google.com/presentation/d/1oIPHP_7qjsrnrDb3kdZIUZt-wQofkiQl/edit?usp=sharing&ouid=111912319459945992784&rtpof=true&sd=true">Tutorial for Mechanistic Interpretability (RASP)</a> </li>
 <li><a href="https://docs.google.com/presentation/d/1AduB4KWxX_vLuPmHGsy5r2NiGz8o1w7G/edit?usp=sharing&ouid=111912319459945992784&rtpof=true&sd=true">Distributed Training and Inference in Academia Environment</a> (co-teach w/ Marziyeh Movahedi at TTIC seminar)</li>
 <li><a href="https://docs.google.com/presentation/d/1Qlb3zTLSSpsyk0r27Qn2zBNl_40wO-sZ/edit?usp=sharing&ouid=111912319459945992784&rtpof=true&sd=true">External Tools + LLM (WebGPT, Toolformer)</a> </li>
 <li><a href="https://docs.google.com/presentation/d/1QDWR6DgHpeYFeOPBG-V0uy9KRzVaHyif/edit?usp=sharing&ouid=111912319459945992784&rtpof=true&sd=true">GPT-4 TechReport 100-Page Walkthrough</a></li>
