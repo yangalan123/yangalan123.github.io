@@ -15,7 +15,7 @@ subtitle: Resources useful for (NLP) PhD Applications
 My mentored students/collaborators (@ some_place means this period happened at some_place, kudos to them all!):
 <ul>
 <li><a href="https://shadowkiller33.github.io/">Lingfeng Shen</a> (JHU M.S., -> ByteDance U.S.,  @ UChicago) </li>
-<li><a href="https://zhiyuan-zeng.github.io/">Zhiyuan Zeng</a>(Tsinghua Undergrad -> UW Ph.D., @UChicago)</li>
+<li><a href="https://zhiyuan-zeng.github.io/">Zhiyuan Zeng</a> (Tsinghua Undergrad -> UW Ph.D., @UChicago)</li>
 <li><a href="https://www.linkedin.com/in/chenytangzhao/">Chenyang Zhao</a> (Tsinghua Undergrad -> UCLA Ph.D., @ UChicago) </li>
 <li><a href="https://www.yanhongli.com/">Yanhong Li</a> (UChicago Undergrad -> TTIC RA, @ UChicago) </li>
 <li><a href="https://www.linkedin.com/in/boyuan-zheng-602238183/">Boyuan Zheng</a> (JHU M.S. -> OSU Ph.D., @ AWS)</li>
