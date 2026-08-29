@@ -11,14 +11,14 @@ subtitle: Great thanks for my all great collaborators!
         <a href="https://yangalan123.github.io/ead_rlvr/">[EAD-RLVR]</a> {<strong>Chenghao Yang*</strong>, Lin Gui*, Chenxiao Yang*}, Victor Veitch, Lizhu Zhang, Zhuokai Zhao., Let it Calm: Exploratory Annealed Decoding for Verifiable Reinforcement Learning. <a href="https://arxiv.org/abs/2510.05251">[Arxiv]</a> <a href="https://github.com/yangalan123/EAD-RLVR">[Code]</a>
     </li>
     <li>
-        <a href="https://yangalan123.github.io/branching_factor/">[LLM Branching Factor]</a> <strong>Chenghao Yang</strong>, Sida Li, Ari Holtzman., LLM Probability Concentration: How Alignment Shrinks the Generative Horizon. <a href="http://arxiv.org/abs/2506.17871">[Arxiv]</a> <a href="https://github.com/yangalan123/LLMBranchingFactor">[Code]</a>
-    </li>
-    <li>
         <a href="https://algoroxyolo.github.io/projects/chameleon-limit/">[LLM Persona Collapse]</a> Yunze Xiao*, Vivienne J. Zhang*, <strong>Chenghao Yang</strong>, Ningshan Ma, Weihao Xuan, Jen-tse Huang <strong>The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models</strong>. <a href="https://arxiv.org/abs/2604.24698">[paper]</a> <a href="https://github.com/Algoroxyolo/PersonaCollapse">[Code]</a>
     </li>
 </ol>
 <h3 id="journal-papers">Journal Papers</h3>
 <ol>
+    <li>
+        <a href="https://yangalan123.github.io/branching_factor/">[LLM Branching Factor]</a> <strong>Chenghao Yang</strong>, Sida Li, Ari Holtzman., <strong>LLM Probability Concentration: How Alignment Shrinks the Generative Horizon</strong>, TMLR 2026. <a href="http://arxiv.org/abs/2506.17871">[paper]</a> <a href="https://github.com/yangalan123/LLMBranchingFactor">[Code]</a>
+    </li>
     <li>
         {<strong>Chenghao Yang*</strong>, Xiangyang Mou*, Mo Yu*}, Bingsheng Yao, Xiaoxiao Guo, Saloni Potdar, Hui Su., 
         <strong>Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study</strong> TACL 2021 
@@ -33,6 +33,9 @@ subtitle: Great thanks for my all great collaborators!
 </ol>
 <h3 id="conference-papers">Conference Papers</h3>
 <ol>
+    <li>
+        Boyan Li, Bingsen Chen, <strong>Chenghao Yang</strong>, Ping Nie, Chen Zhao, Xi Ye., <strong>Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</strong>, EMNLP 2026 Findings.
+    </li>
     <li>
         <a href="https://yichenzw.com/base-aligned-collab.github.io/">[BACo]</a> {Yichen Wang*, <strong>Chenghao Yang*</strong>, Tenghao Huang*}, Muhao Chen, Jonathan May, Mina Lee., <strong>Optimizing Diversity and Quality through Base–Aligned Model Collaboration</strong>, ICML 2026. <a href="https://arxiv.org/abs/2511.05650">[paper]</a>
     </li>
@@ -78,6 +81,7 @@ subtitle: Great thanks for my all great collaborators!
 </ol>
 <h3 id="workshop-papers">Workshop Papers</h3>
 <ol>
+    <li>{Ting-Yun Chang*, Harvey Yiyun Fu*, Deqing Fu*}, <strong>Chenghao Yang</strong>, Jesse Thomason, Robin Jia., <strong>Value-Aware Stochastic KV Cache Eviction for Reasoning Models</strong>, ER@COLM 2026. <a href="https://arxiv.org/abs/2606.03928">[paper]</a> <a href="https://github.com/terarachang/VaSE">[code]</a></li>
     <li>Chaoqi Wang, Yibo Jiang, <strong>Chenghao Yang</strong>, Han Liu, Yuxin Chen., <strong>Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints</strong>, SoLAR@NeurIPS 2023, Instruction@NeurIPS 2023 <a href="https://arxiv.org/abs/2309.16240">[paper]</a></li>
     <li><strong>Chenghao Yang*</strong>, Yuhui Zhang*, Zhengping Zhou*, Zhiyuan Liu., <strong>Enhancing Transformer
             with
