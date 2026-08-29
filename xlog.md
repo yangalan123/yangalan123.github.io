@@ -5,6 +5,7 @@ subtitle: The best way to learn is to teach.
 ---
 
 <ul>
+<li> <a href="https://harvey-fin.github.io/seeing-is-not-reasoning/">Seeing Is Not Reasoning: How VLMs and Their Benchmarks Lean on Text</a> (Jun 2026, co-authored w/ Harvey Yiyun Fu, Ting-Yun Chang, Zhaowei Wang, Zhaofeng Wu, Jiawei Zhou, Deqing Fu)</li>
 <li> <a href="https://docs.google.com/presentation/d/16ZSH6uOKDY7jILUyRxAH3-gywox_KUmP/edit?usp=drive_link&ouid=111912319459945992784&rtpof=true&sd=true">Tutorial for Inference-Time Compute</a></li>
 <li><a href="https://chenghao-yang.notion.site/By-Alignment-What-are-we-aligning-LLMs-to-75be789fe7884a03816c4314a0681c2c">By “Alignment”, what are we aligning LLMs to?</a> </li>
 <li> <a href="https://docs.google.com/presentation/d/1Ph9qLTwl6LG735fSoLOTkaTH_nsPR1hA/edit?usp=drive_link&ouid=111912319459945992784&rtpof=true&sd=true">(NAACL 2024) Self-Reflection/Self-Correct May Not Work</a></li>
